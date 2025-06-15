@@ -22,7 +22,7 @@ body {
     border: 2px solid white;
     padding: 20px;
     border-radius: 10px;
-}
+    box-shadow: -4px -4px 8px 0px rgba(225, 225, 255, 0.2);
 
 .display {
     width: 320px;
@@ -33,6 +33,7 @@ body {
     text-align: right;
     color: white;
     font-size: 40px;
+    border-radius: 10px;
 }
 
 button {
