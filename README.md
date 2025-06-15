@@ -1,2 +1,2 @@
-# calculator_v2
+# Calculator
 Caclulator created in JS.
